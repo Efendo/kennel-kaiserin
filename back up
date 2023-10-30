@@ -1,0 +1,43 @@
+<h2 class="pt-16 text-3xl">Unsere Hündinnen</h2>
+    <div id="huendinnen">
+      <!--<p class="flex ">-->
+      <img
+        class="mx-auto rounded-xl"
+        id="huendin"
+        lenght="250"
+        width="250"
+        src="https://cdn.glitch.global/c0704173-d7d2-4ee1-bb6a-2f8de4f782e9/IMG-20230826-WA0000(1).jpg?v=1698324528393"
+      />
+      <!--</p>-->
+      <h2 id="name" class="text-2xl mb-4">Marian</h2>
+      <button
+        id="next"
+        class="text-center font-bold rounded-md p-4 text-white bg-green-500"
+      >
+        Nächstes
+      </button>
+    </div>
+    
+    <a class="text-xl mt-8 font-bold" href="mailto:dejanjovanovic513@gmail.com"
+       >Jetzt ein Welpe reservieren</a>
+       
+       class="w-64 mx-auto rounded-full h-64"
+         <footer class="py-4 mt-4 bg-slate-800 text-white">
+      <h2 class="text-3xl mt-8 mb-4">Kontakt Information</h2>
+      <p>
+        Telefon: +4917672908129 <br />
+        Email: dejanjovanovic513@gmail.com
+      </p>
+      Adresse: Robert-Bosch Str. 32, 72760 Reutlingen, Baden-Württemberg
+      <br />
+      <br />
+      <p class="italic text-3xl">Impressum</p>
+      <p>Kennel Kaiserin Reutlingen</p>
+    </footer>
+  </body>
+</html>
+ class="mx-auto rounded-xl"
+        id="huendin"
+        lenght="250"
+        width="250"
+       
