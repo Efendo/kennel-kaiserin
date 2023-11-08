@@ -2,7 +2,7 @@
 
 ## Description
 
-This project contains the code for the Kennel Kaiserin website. It is a small Lagotto Romangolo dog breeding website supported by VDH L.R.W.D. e.V.
+This project contains the code for the [Kennel Kaiserin website](http://www.kennelkaiserin.com). It is a small Lagotto Romangolo dog breeding website supported by VDH L.R.W.D. e.V.
 
 ## Contents
 
